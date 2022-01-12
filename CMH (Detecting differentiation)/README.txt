@@ -11,3 +11,6 @@ Python script to extract the lowest p-value SNP within a 50kb region to use in t
 
 outputmeta_20cov_sigSNP.txt
 Text file of the lowest p-value per 50kb region that contains at least 3 significant SNPs produced by "Obtain_Low_PValue_Position_Annotated.py.
+
+meta_sigSNPs_50kb_pvals.txt
+Text file containing frequency and SNP position of all SNPs found in "outputmeta_20cov_sigSNP.txt".
