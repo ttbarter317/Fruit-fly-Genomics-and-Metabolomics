@@ -1,4 +1,3 @@
-setwd("/media/thomas/DATA/Metabolomics")
 # FLAM for EXPERIMENTAL EVOLUTION
 # The genetic data consists of a matrix with n-rows and m-columns
 # The allele frequencies must be inserted into the matrix "allele.freqs"
